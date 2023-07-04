@@ -1,7 +1,7 @@
 # html-css 
 
-### 'Deploy'
+### `Deploy`
 https://html-csss.netlify.app/
 
-### 'Screen'
+### `Screen`
 ![](screen.gif)
